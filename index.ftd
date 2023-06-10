@@ -28,9 +28,9 @@ header-item4-link: /portfolio/tweets
 header-item5-link: /portfolio/experience
 header-item6-link: /portfolio/contact
 cta-item1: Resume
-cta-item1-link: https://ayushsoni1010.com/resume
+cta-item1-link: https://drive.google.com/file/d/1Njvsk9VH61T4zIalu6ptHISXZtkQNkd7/view?usp=sharing
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: https://calendly.com/reshamkataria2
 
 ;; --------------------------------------------------------------
 ;; --------------------------------------------------------------
@@ -54,7 +54,6 @@ firstTitle: I'm
 secondTitle: Resham Kataria,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: full stack
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
@@ -78,7 +77,7 @@ link: mailto:reshamkataria27@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
-link: https://calendly.com/ayushsoni1010/
+link:  https://calendly.com/reshamkataria2
 isNewTab: true
 
 -- end: ftd.row
